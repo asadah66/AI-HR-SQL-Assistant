@@ -1,0 +1,7 @@
+streamlit==1.17.0
+pandas==2.0.3
+sqlite3==3.36.0
+python-dotenv==0.21.0
+langchain==0.0.169
+langchain_groq==0.0.2
+groq-api-client==0.0.1
