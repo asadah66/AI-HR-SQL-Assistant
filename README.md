@@ -13,10 +13,13 @@ With the power of AI and SQL generation, you can:
 - Get instant, accurate results from your employee database.
 
 # Example Queries You Can Try:
-"List all employees in the Marketing department"
-"Show employees hired after January 2023"
-"Get average salary by department"
-"Find employees located in Bengaluru"
+- "List all employees in the Marketing department"
+
+- "Show employees hired after January 2023"
+
+- "Get average salary by department"
+
+- "Find employees located in Bengaluru"
 
 # Technology Stack
 Frontend: Streamlit
