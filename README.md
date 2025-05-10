@@ -31,5 +31,13 @@ With the power of AI and SQL generation, you can:
 
 - Language: Python
 
+# Screenshots
+
+![image alt](https://github.com/asadah66/AI-HR-SQL-Assistant/blob/f9b21f5f5b6c9e30f29dd0692777c0d78ff5a6d1/im1.png)
+![image alt](https://github.com/asadah66/AI-HR-SQL-Assistant/blob/f9b21f5f5b6c9e30f29dd0692777c0d78ff5a6d1/im2.png)
+![image alt](https://github.com/asadah66/AI-HR-SQL-Assistant/blob/f9b21f5f5b6c9e30f29dd0692777c0d78ff5a6d1/im3.png)
+![image alt](https://github.com/asadah66/AI-HR-SQL-Assistant/blob/f9b21f5f5b6c9e30f29dd0692777c0d78ff5a6d1/im4.png)
+![image alt](https://github.com/asadah66/AI-HR-SQL-Assistant/blob/f9b21f5f5b6c9e30f29dd0692777c0d78ff5a6d1/im5.png)
+
 # Explanation 
 ![image alt](https://github.com/asadah66/AI-HR-SQL-Assistant/blob/d474603b0c870a27067928e7966595f08410f469/flow_control.jpg)
