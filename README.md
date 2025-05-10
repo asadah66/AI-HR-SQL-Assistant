@@ -5,8 +5,11 @@ Converts text to sql query using Groq AI
 The AI HR Database Tool is designed to help HR professionals and analysts interact with employee databases using simple natural language queries.
 With the power of AI and SQL generation, you can:
 - Retrieve employee records based on department, designation, salary, location, and more.
+
 - Filter employees by hiring dates.
+
 - Perform data analysis like counts, averages, and salary insights — all without writing SQL manually.
+
 - Get instant, accurate results from your employee database.
 
 # Example Queries You Can Try:
