@@ -22,10 +22,14 @@ With the power of AI and SQL generation, you can:
 - "Find employees located in Bengaluru"
 
 # Technology Stack
-Frontend: Streamlit
-Backend: SQLite
-AI Integration: Llama 3 via Groq API
-Language: Python
+
+- Frontend: Streamlit
+
+- Backend: SQLite
+
+- AI Integration: Llama 3 via Groq API
+
+- Language: Python
 
 # Explanation 
 ![image alt](https://github.com/asadah66/AI-HR-SQL-Assistant/blob/d474603b0c870a27067928e7966595f08410f469/flow_control.jpg)
